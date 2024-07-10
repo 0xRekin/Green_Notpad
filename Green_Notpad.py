@@ -3,7 +3,7 @@ from tkinter import filedialog
 
 root = Tk()
 root.geometry("600x600")
-root.title("Green Notpad (Created by Zakarye Ridoine)")
+root.title("Green Notpad (Created by KNOT)")
 root.config(bg="green4")
 root.resizable(False,False)
 
