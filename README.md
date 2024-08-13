@@ -29,6 +29,3 @@ This project requires the Tkinter library, which is included with standard Pytho
 2. **Edit Text**: Type or modify the text in the provided text widget.
 3. **Save Your Work**: Click the "Save your file" button to save the current content to a new or existing text file.
 
----
-
-Feel free to adjust any sections or details to better fit your project's specific features and design!
